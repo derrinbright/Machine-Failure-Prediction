@@ -53,13 +53,7 @@ The dataset contains **944 records** with sensor readings collected from machine
 ## 5. Results and Analysis  
   
 - **Confusion Matrix:**  
-  \[
-  \begin{bmatrix}
-  90 & 12 \\
-  8 & 79 \\
-  \end{bmatrix}
-  \]
-
+  
   The model accurately predicted 90 true negatives and 79 true positives, with limited misclassifications.  
 
 - **Model Accuracy:** Approximately **89.4%**, demonstrating effective predictive capability for machine failure.  
